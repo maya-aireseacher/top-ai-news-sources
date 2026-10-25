@@ -1,0 +1,306 @@
+{
+  "title": "Top 10 AI News Websites, Blogs and Reddits",
+  "topic": "AI news sources and information platforms",
+  "items": [
+    {
+      "rank": 1,
+      "section": "AI Magazines",
+      "num": 1,
+      "name": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/",
+      "region": "",
+      "blurb": "Covers AI research, emerging technologies, breakthroughs and societal impact.",
+      "facts": []
+    },
+    {
+      "rank": 2,
+      "section": "AI Magazines",
+      "num": 2,
+      "name": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/",
+      "region": "",
+      "blurb": "Focuses on AI engineering, robotics, computing and technical innovation.",
+      "facts": []
+    },
+    {
+      "rank": 3,
+      "section": "AI Magazines",
+      "num": 3,
+      "name": "WIRED",
+      "url": "https://www.wired.com/",
+      "region": "",
+      "blurb": "Covers AI, technology culture, business and emerging trends.",
+      "facts": []
+    },
+    {
+      "rank": 4,
+      "section": "AI Magazines",
+      "num": 4,
+      "name": "Tech AI Magazine",
+      "url": "https://techaimag.com/",
+      "region": "",
+      "blurb": "Provides AI news, open-source models, developer tools and technical explainers.",
+      "facts": []
+    },
+    {
+      "rank": 5,
+      "section": "AI Magazines",
+      "num": 5,
+      "name": "Analytics Insight",
+      "url": "https://www.analyticsinsight.net/",
+      "region": "",
+      "blurb": "Focuses on AI research, machine learning, data science and AI industry news.",
+      "facts": []
+    },
+    {
+      "rank": 6,
+      "section": "AI Magazines",
+      "num": 6,
+      "name": "The Gradient",
+      "url": "https://thegradient.pub/",
+      "region": "",
+      "blurb": "Covers AI research, technical analysis and perspectives on machine learning.",
+      "facts": []
+    },
+    {
+      "rank": 7,
+      "section": "AI Magazines",
+      "num": 7,
+      "name": "AI Business Magazine",
+      "url": "https://aibmag.com/",
+      "region": "",
+      "blurb": "Focuses on enterprise AI, investment, governance and business strategy.",
+      "facts": []
+    },
+    {
+      "rank": 8,
+      "section": "AI Magazines",
+      "num": 8,
+      "name": "Communications of the ACM",
+      "url": "https://cacm.acm.org/",
+      "region": "",
+      "blurb": "Covers computing research, AI developments and computer science analysis.",
+      "facts": []
+    },
+    {
+      "rank": 9,
+      "section": "AI Magazines",
+      "num": 9,
+      "name": "Technology Magazine",
+      "url": "https://technologymagazine.com/",
+      "region": "",
+      "blurb": "Focuses on enterprise technology, digital transformation and AI adoption.",
+      "facts": []
+    },
+    {
+      "rank": 10,
+      "section": "AI Magazines",
+      "num": 10,
+      "name": "Analytics India Magazine (AIM)",
+      "url": "https://analyticsindiamag.com/",
+      "region": "India",
+      "blurb": "Analytics magazine based out in India.",
+      "facts": []
+    },
+    {
+      "rank": 11,
+      "section": "AI Blogs",
+      "num": 1,
+      "name": "OpenAI Blog",
+      "url": "https://openai.com/blog/",
+      "region": "",
+      "blurb": "Covers AI model releases, research breakthroughs, product updates and AI safety.",
+      "facts": []
+    },
+    {
+      "rank": 12,
+      "section": "AI Blogs",
+      "num": 2,
+      "name": "Google DeepMind Blog",
+      "url": "https://deepmind.com/blog",
+      "region": "",
+      "blurb": "Focuses on frontier AI research, scientific discoveries and model developments.",
+      "facts": []
+    },
+    {
+      "rank": 13,
+      "section": "AI Blogs",
+      "num": 3,
+      "name": "Anthropic Research",
+      "url": "https://www.anthropic.com/research",
+      "region": "",
+      "blurb": "Covers Claude models, interpretability, AI safety and frontier research.",
+      "facts": []
+    },
+    {
+      "rank": 14,
+      "section": "AI Blogs",
+      "num": 4,
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog",
+      "region": "",
+      "blurb": "Focuses on open-source models, LLMs, machine learning and developer tutorials.",
+      "facts": []
+    },
+    {
+      "rank": 15,
+      "section": "AI Blogs",
+      "num": 5,
+      "name": "Simon Willison's Weblog",
+      "url": "https://simonwillison.net/",
+      "region": "",
+      "blurb": "Covers AI tools, LLM experiments, model launches and practical testing.",
+      "facts": []
+    },
+    {
+      "rank": 16,
+      "section": "AI Blogs",
+      "num": 6,
+      "name": "MarkTechPost",
+      "url": "https://marktechpost.com/",
+      "region": "",
+      "blurb": "Focuses on AI research papers, model releases and technical developments.",
+      "facts": []
+    },
+    {
+      "rank": 17,
+      "section": "AI Blogs",
+      "num": 7,
+      "name": "Towards Data Science",
+      "url": "https://towardsdatascience.com/",
+      "region": "",
+      "blurb": "Provides machine learning tutorials, applied AI and data science content.",
+      "facts": []
+    },
+    {
+      "rank": 18,
+      "section": "AI Blogs",
+      "num": 8,
+      "name": "KDnuggets",
+      "url": "https://www.kdnuggets.com/",
+      "region": "",
+      "blurb": "Covers AI, machine learning, analytics tutorials and industry trends.",
+      "facts": []
+    },
+    {
+      "rank": 19,
+      "section": "AI Blogs",
+      "num": 9,
+      "name": "Machine Learning Mastery",
+      "url": "https://machinelearningmastery.com/",
+      "region": "",
+      "blurb": "Focuses on practical machine learning tutorials and implementation guides.",
+      "facts": []
+    },
+    {
+      "rank": 20,
+      "section": "AI Blogs",
+      "num": 10,
+      "name": "Sebastian Raschka's Ahead of AI",
+      "url": "https://sebastianraschka.com/blog/",
+      "region": "",
+      "blurb": "Covers LLM architectures, training methods and technical research analysis.",
+      "facts": []
+    },
+    {
+      "rank": 21,
+      "section": "AI Reddits",
+      "num": 1,
+      "name": "r/ArtificialInteligence",
+      "url": "https://www.reddit.com/r/ArtificialInteligence/",
+      "region": "",
+      "blurb": "General AI news, industry developments and discussions.",
+      "facts": []
+    },
+    {
+      "rank": 22,
+      "section": "AI Reddits",
+      "num": 2,
+      "name": "r/artificial",
+      "url": "https://www.reddit.com/r/artificial/",
+      "region": "",
+      "blurb": "Covers AI news, research, applications and societal impact.",
+      "facts": []
+    },
+    {
+      "rank": 23,
+      "section": "AI Reddits",
+      "num": 3,
+      "name": "r/singularity",
+      "url": "https://www.reddit.com/r/singularity/",
+      "region": "",
+      "blurb": "Focuses on frontier AI, AGI predictions and major technology developments.",
+      "facts": []
+    },
+    {
+      "rank": 24,
+      "section": "AI Reddits",
+      "num": 4,
+      "name": "r/ChatGPT",
+      "url": "https://www.reddit.com/r/ChatGPT/",
+      "region": "",
+      "blurb": "Covers ChatGPT updates, use cases and AI discussions.",
+      "facts": []
+    },
+    {
+      "rank": 25,
+      "section": "AI Reddits",
+      "num": 5,
+      "name": "r/OpenAI",
+      "url": "https://www.reddit.com/r/OpenAI/",
+      "region": "",
+      "blurb": "Focuses on OpenAI models, products and API developments.",
+      "facts": []
+    },
+    {
+      "rank": 26,
+      "section": "AI Reddits",
+      "num": 6,
+      "name": "r/MachineLearning",
+      "url": "https://www.reddit.com/r/MachineLearning/",
+      "region": "",
+      "blurb": "Covers machine learning research papers, benchmarks and technical discussions.",
+      "facts": []
+    },
+    {
+      "rank": 27,
+      "section": "AI Reddits",
+      "num": 7,
+      "name": "r/LocalLLaMA",
+      "url": "https://www.reddit.com/r/LocalLLaMA/",
+      "region": "",
+      "blurb": "Focuses on open-source models, local AI deployment and model comparisons.",
+      "facts": []
+    },
+    {
+      "rank": 28,
+      "section": "AI Reddits",
+      "num": 8,
+      "name": "r/ClaudeAI",
+      "url": "https://www.reddit.com/r/ClaudeAI/",
+      "region": "",
+      "blurb": "Covers Claude models, features, workflows and user experiences.",
+      "facts": []
+    },
+    {
+      "rank": 29,
+      "section": "AI Reddits",
+      "num": 9,
+      "name": "r/StableDiffusion",
+      "url": "https://www.reddit.com/r/StableDiffusion/",
+      "region": "",
+      "blurb": "Focuses on image generation models, techniques and tools.",
+      "facts": []
+    },
+    {
+      "rank": 30,
+      "section": "AI Reddits",
+      "num": 10,
+      "name": "r/AI_Agents",
+      "url": "https://www.reddit.com/r/AI_Agents/",
+      "region": "",
+      "blurb": "Covers AI agents, agent frameworks, automation and implementation.",
+      "facts": []
+    }
+  ]
+}
